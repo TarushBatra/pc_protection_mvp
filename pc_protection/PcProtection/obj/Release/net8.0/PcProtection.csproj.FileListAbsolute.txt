@@ -60,3 +60,4 @@ C:\Users\Tarushlol\OneDrive\Desktop\pc_protection_mvp\pc_protection\PcProtection
 C:\Users\Tarushlol\OneDrive\Desktop\pc_protection_mvp\pc_protection\PcProtection\bin\Release\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Tarushlol\OneDrive\Desktop\pc_protection_mvp\pc_protection\PcProtection\bin\Release\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Tarushlol\OneDrive\Desktop\pc_protection_mvp\pc_protection\PcProtection\bin\Release\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Tarushlol\OneDrive\Desktop\pc_protection_mvp\pc_protection\PcProtection\obj\Release\net8.0\PcProtection.sourcelink.json

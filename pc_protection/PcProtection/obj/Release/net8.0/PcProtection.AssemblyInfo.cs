@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PcProtection")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93da842f4b67f3744dc5a0d412a594f9f598dcb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PcProtection")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PcProtection")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
