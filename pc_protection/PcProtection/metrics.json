@@ -1,0 +1,1610 @@
+[
+  {
+    "Timestamp": "2025-10-15T21:42:57.8082585Z",
+    "CpuPercent": 14.266839981079102,
+    "MemoryBytes": 44953600,
+    "SecurityEvent": "Critical: unauthorized service started"
+  },
+  {
+    "Timestamp": "2025-10-15T21:43:12.9678623Z",
+    "CpuPercent": 14.2066011428833,
+    "MemoryBytes": 51568640,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:43:28.0201694Z",
+    "CpuPercent": 18.033777236938477,
+    "MemoryBytes": 52494336,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:43:43.0516603Z",
+    "CpuPercent": 11.578856468200684,
+    "MemoryBytes": 52645888,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:43:58.0656592Z",
+    "CpuPercent": 8.842306137084961,
+    "MemoryBytes": 52776960,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-15T21:44:13.0886799Z",
+    "CpuPercent": 12.569018363952637,
+    "MemoryBytes": 53243904,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:44:28.1134806Z",
+    "CpuPercent": 15.979621887207031,
+    "MemoryBytes": 53428224,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:44:43.1253279Z",
+    "CpuPercent": 12.639287948608398,
+    "MemoryBytes": 53673984,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:44:58.1514923Z",
+    "CpuPercent": 6.810028076171875,
+    "MemoryBytes": 54439936,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:45:13.1635768Z",
+    "CpuPercent": 7.170753479003906,
+    "MemoryBytes": 55521280,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:45:28.1777877Z",
+    "CpuPercent": 9.8970947265625,
+    "MemoryBytes": 53846016,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:45:43.2029581Z",
+    "CpuPercent": 12.236506462097168,
+    "MemoryBytes": 55848960,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:45:58.2135419Z",
+    "CpuPercent": 12.035148620605469,
+    "MemoryBytes": 55877632,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:46:13.2364731Z",
+    "CpuPercent": 15.893315315246582,
+    "MemoryBytes": 54235136,
+    "SecurityEvent": "AV alert (quarantined)"
+  },
+  {
+    "Timestamp": "2025-10-15T21:46:28.2546524Z",
+    "CpuPercent": 19.39994239807129,
+    "MemoryBytes": 54562816,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:46:43.2768379Z",
+    "CpuPercent": 20.78541374206543,
+    "MemoryBytes": 54915072,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:46:58.2946145Z",
+    "CpuPercent": 14.476468086242676,
+    "MemoryBytes": 55017472,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-15T21:47:13.319871Z",
+    "CpuPercent": 6.69444465637207,
+    "MemoryBytes": 55050240,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:47:28.3343087Z",
+    "CpuPercent": 11.10722541809082,
+    "MemoryBytes": 55062528,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:47:43.3563398Z",
+    "CpuPercent": 10.846921920776367,
+    "MemoryBytes": 55107584,
+    "SecurityEvent": "Critical: unauthorized service started"
+  },
+  {
+    "Timestamp": "2025-10-15T21:47:58.3731193Z",
+    "CpuPercent": 14.425152778625488,
+    "MemoryBytes": 55283712,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:48:13.4003004Z",
+    "CpuPercent": 11.885309219360352,
+    "MemoryBytes": 55975936,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:48:28.4161527Z",
+    "CpuPercent": 9.281786918640137,
+    "MemoryBytes": 54861824,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-15T21:48:43.4304657Z",
+    "CpuPercent": 15.399707794189453,
+    "MemoryBytes": 54923264,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:48:58.4520356Z",
+    "CpuPercent": 12.483403205871582,
+    "MemoryBytes": 55156736,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:49:13.4700165Z",
+    "CpuPercent": 10.26363468170166,
+    "MemoryBytes": 55234560,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:49:28.492408Z",
+    "CpuPercent": 6.409085273742676,
+    "MemoryBytes": 55296000,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:49:43.5095454Z",
+    "CpuPercent": 5.937380790710449,
+    "MemoryBytes": 56135680,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:49:58.5289588Z",
+    "CpuPercent": 7.154751777648926,
+    "MemoryBytes": 56328192,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:50:13.5481411Z",
+    "CpuPercent": 8.37121868133545,
+    "MemoryBytes": 56061952,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:50:28.5628847Z",
+    "CpuPercent": 8.5669527053833,
+    "MemoryBytes": 56438784,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:50:43.5800307Z",
+    "CpuPercent": 13.399025917053223,
+    "MemoryBytes": 57610240,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-15T21:50:58.5971733Z",
+    "CpuPercent": 12.841767311096191,
+    "MemoryBytes": 57765888,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-15T21:51:13.6159604Z",
+    "CpuPercent": 15.132805824279785,
+    "MemoryBytes": 56676352,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:51:28.6415408Z",
+    "CpuPercent": 14.923700332641602,
+    "MemoryBytes": 56762368,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:51:43.6651302Z",
+    "CpuPercent": 15.39211654663086,
+    "MemoryBytes": 56856576,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:51:58.6775053Z",
+    "CpuPercent": 16.944461822509766,
+    "MemoryBytes": 56926208,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:52:13.6899494Z",
+    "CpuPercent": 9.020580291748047,
+    "MemoryBytes": 57040896,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:52:28.7140927Z",
+    "CpuPercent": 9.254379272460938,
+    "MemoryBytes": 57106432,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:52:43.7400867Z",
+    "CpuPercent": 5.918017387390137,
+    "MemoryBytes": 57171968,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:52:58.761462Z",
+    "CpuPercent": 5.02465295791626,
+    "MemoryBytes": 57229312,
+    "SecurityEvent": "Critical: unauthorized service started"
+  },
+  {
+    "Timestamp": "2025-10-15T21:53:13.7826223Z",
+    "CpuPercent": 7.30499267578125,
+    "MemoryBytes": 57323520,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:53:28.8020567Z",
+    "CpuPercent": 9.557900428771973,
+    "MemoryBytes": 57393152,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:53:43.8193832Z",
+    "CpuPercent": 5.395432472229004,
+    "MemoryBytes": 57434112,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:53:58.8355953Z",
+    "CpuPercent": 5.166946887969971,
+    "MemoryBytes": 57503744,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:54:13.8619705Z",
+    "CpuPercent": 7.708918571472168,
+    "MemoryBytes": 57569280,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:54:28.8755848Z",
+    "CpuPercent": 7.265392780303955,
+    "MemoryBytes": 57651200,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:54:43.8915335Z",
+    "CpuPercent": 7.578461170196533,
+    "MemoryBytes": 57741312,
+    "SecurityEvent": "AV alert (quarantined)"
+  },
+  {
+    "Timestamp": "2025-10-15T21:54:58.9189353Z",
+    "CpuPercent": 5.536482810974121,
+    "MemoryBytes": 57819136,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:55:13.9393843Z",
+    "CpuPercent": 8.705427169799805,
+    "MemoryBytes": 57933824,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:55:28.9637338Z",
+    "CpuPercent": 12.245336532592773,
+    "MemoryBytes": 58736640,
+    "SecurityEvent": "AV alert (quarantined)"
+  },
+  {
+    "Timestamp": "2025-10-15T21:55:43.9863062Z",
+    "CpuPercent": 8.731489181518555,
+    "MemoryBytes": 58220544,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:55:59.0091135Z",
+    "CpuPercent": 7.613760948181152,
+    "MemoryBytes": 58343424,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:56:14.0335466Z",
+    "CpuPercent": 17.079614639282227,
+    "MemoryBytes": 58437632,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:56:29.098283Z",
+    "CpuPercent": 19.203516006469727,
+    "MemoryBytes": 58490880,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:56:44.115461Z",
+    "CpuPercent": 17.771404266357422,
+    "MemoryBytes": 58617856,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:56:59.1534987Z",
+    "CpuPercent": 14.468748092651367,
+    "MemoryBytes": 58699776,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:57:14.1709248Z",
+    "CpuPercent": 5.298755168914795,
+    "MemoryBytes": 59523072,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:57:29.1945626Z",
+    "CpuPercent": 7.983273506164551,
+    "MemoryBytes": 59662336,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:57:44.2223344Z",
+    "CpuPercent": 5.788020610809326,
+    "MemoryBytes": 60694528,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:57:59.2413276Z",
+    "CpuPercent": 13.83956241607666,
+    "MemoryBytes": 60907520,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:58:14.2661916Z",
+    "CpuPercent": 11.629396438598633,
+    "MemoryBytes": 61214720,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:58:29.2831361Z",
+    "CpuPercent": 8.203006744384766,
+    "MemoryBytes": 60059648,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T21:58:44.3062373Z",
+    "CpuPercent": 14.903206825256348,
+    "MemoryBytes": 59568128,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:12:14.596238Z",
+    "CpuPercent": 17.013776779174805,
+    "MemoryBytes": 44220416,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:12:29.7407136Z",
+    "CpuPercent": 9.090423583984375,
+    "MemoryBytes": 52113408,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:12:44.7532525Z",
+    "CpuPercent": 9.12382698059082,
+    "MemoryBytes": 54390784,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:12:59.7670152Z",
+    "CpuPercent": 11.468552589416504,
+    "MemoryBytes": 54730752,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:13:14.7802352Z",
+    "CpuPercent": 10.794282913208008,
+    "MemoryBytes": 53145600,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:13:29.8057027Z",
+    "CpuPercent": 13.46079158782959,
+    "MemoryBytes": 53280768,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:13:44.8276187Z",
+    "CpuPercent": 7.452910423278809,
+    "MemoryBytes": 53411840,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:13:59.8472416Z",
+    "CpuPercent": 17.692562103271484,
+    "MemoryBytes": 54153216,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:14:14.8683877Z",
+    "CpuPercent": 27.783798217773438,
+    "MemoryBytes": 53460992,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:14:29.8951582Z",
+    "CpuPercent": 13.184322357177734,
+    "MemoryBytes": 53719040,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:14:44.9159331Z",
+    "CpuPercent": 9.589380264282227,
+    "MemoryBytes": 53895168,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:14:59.9375304Z",
+    "CpuPercent": 15.485818862915039,
+    "MemoryBytes": 54304768,
+    "SecurityEvent": "AV alert (quarantined)"
+  },
+  {
+    "Timestamp": "2025-10-15T22:15:14.9512713Z",
+    "CpuPercent": 9.068020820617676,
+    "MemoryBytes": 54411264,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:15:29.9739281Z",
+    "CpuPercent": 12.130785942077637,
+    "MemoryBytes": 54525952,
+    "SecurityEvent": "AV alert (quarantined)"
+  },
+  {
+    "Timestamp": "2025-10-15T22:15:44.9993404Z",
+    "CpuPercent": 10.018814086914062,
+    "MemoryBytes": 54800384,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:16:00.0223001Z",
+    "CpuPercent": 13.996813774108887,
+    "MemoryBytes": 55050240,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-15T22:16:15.0480682Z",
+    "CpuPercent": 9.549161911010742,
+    "MemoryBytes": 55238656,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:16:30.0713597Z",
+    "CpuPercent": 7.535097122192383,
+    "MemoryBytes": 54833152,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:16:45.0942792Z",
+    "CpuPercent": 15.453059196472168,
+    "MemoryBytes": 54878208,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:17:00.1071127Z",
+    "CpuPercent": 5.504426002502441,
+    "MemoryBytes": 55103488,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-15T22:17:15.1210245Z",
+    "CpuPercent": 7.163063049316406,
+    "MemoryBytes": 55517184,
+    "SecurityEvent": "Critical: unauthorized service started"
+  },
+  {
+    "Timestamp": "2025-10-15T22:17:30.1327818Z",
+    "CpuPercent": 5.5947980880737305,
+    "MemoryBytes": 55795712,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:17:45.1534697Z",
+    "CpuPercent": 8.36096477508545,
+    "MemoryBytes": 56258560,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:18:00.1721708Z",
+    "CpuPercent": 7.297301769256592,
+    "MemoryBytes": 55902208,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:18:15.1946116Z",
+    "CpuPercent": 9.801864624023438,
+    "MemoryBytes": 56131584,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:18:30.2149079Z",
+    "CpuPercent": 17.261255264282227,
+    "MemoryBytes": 56336384,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:18:45.2293803Z",
+    "CpuPercent": 11.712410926818848,
+    "MemoryBytes": 56487936,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-15T22:19:00.249563Z",
+    "CpuPercent": 12.81344223022461,
+    "MemoryBytes": 57106432,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:19:15.26297Z",
+    "CpuPercent": 13.878508567810059,
+    "MemoryBytes": 57307136,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-15T22:19:30.2881964Z",
+    "CpuPercent": 12.412073135375977,
+    "MemoryBytes": 57171968,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:19:45.3118459Z",
+    "CpuPercent": 5.227470397949219,
+    "MemoryBytes": 57434112,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:20:00.3359417Z",
+    "CpuPercent": 7.903606414794922,
+    "MemoryBytes": 59273216,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:20:15.3550974Z",
+    "CpuPercent": 6.440364360809326,
+    "MemoryBytes": 58228736,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T22:20:30.3694159Z",
+    "CpuPercent": 22.339746475219727,
+    "MemoryBytes": 58400768,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-15T23:59:36.2325583Z",
+    "CpuPercent": 99.82038879394531,
+    "MemoryBytes": 58707968,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:08:57.621059Z",
+    "CpuPercent": 99.97039794921875,
+    "MemoryBytes": 58855424,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:09:12.6590885Z",
+    "CpuPercent": 44.191246032714844,
+    "MemoryBytes": 59064320,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:09:27.7148655Z",
+    "CpuPercent": 94.34394073486328,
+    "MemoryBytes": 59211776,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:09:42.7517898Z",
+    "CpuPercent": 66.47587585449219,
+    "MemoryBytes": 59322368,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:09:57.7701393Z",
+    "CpuPercent": 43.649654388427734,
+    "MemoryBytes": 59453440,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-16T11:10:12.7916753Z",
+    "CpuPercent": 25.978609085083008,
+    "MemoryBytes": 59637760,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:10:27.8242862Z",
+    "CpuPercent": 10.38294506072998,
+    "MemoryBytes": 59813888,
+    "SecurityEvent": "AV alert (quarantined)"
+  },
+  {
+    "Timestamp": "2025-10-16T11:10:42.8435837Z",
+    "CpuPercent": 14.17973518371582,
+    "MemoryBytes": 59928576,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-16T11:10:57.869223Z",
+    "CpuPercent": 13.8707857131958,
+    "MemoryBytes": 60104704,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:11:12.8936774Z",
+    "CpuPercent": 11.668107032775879,
+    "MemoryBytes": 60203008,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:11:27.9153368Z",
+    "CpuPercent": 13.614411354064941,
+    "MemoryBytes": 60301312,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:11:42.9409721Z",
+    "CpuPercent": 11.640883445739746,
+    "MemoryBytes": 60424192,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:11:57.9629944Z",
+    "CpuPercent": 12.096013069152832,
+    "MemoryBytes": 60542976,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-16T11:12:12.9927791Z",
+    "CpuPercent": 24.004575729370117,
+    "MemoryBytes": 60960768,
+    "SecurityEvent": "Critical: unauthorized service started"
+  },
+  {
+    "Timestamp": "2025-10-16T11:12:28.0193116Z",
+    "CpuPercent": 19.901138305664062,
+    "MemoryBytes": 61104128,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:12:43.0430824Z",
+    "CpuPercent": 8.56965160369873,
+    "MemoryBytes": 61251584,
+    "SecurityEvent": "AV alert (quarantined)"
+  },
+  {
+    "Timestamp": "2025-10-16T11:12:58.0574778Z",
+    "CpuPercent": 7.523545742034912,
+    "MemoryBytes": 61411328,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:13:13.0735521Z",
+    "CpuPercent": 8.6466064453125,
+    "MemoryBytes": 61530112,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:13:28.1082853Z",
+    "CpuPercent": 18.658199310302734,
+    "MemoryBytes": 63799296,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:13:43.1315632Z",
+    "CpuPercent": 20.728614807128906,
+    "MemoryBytes": 63172608,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:13:58.1511067Z",
+    "CpuPercent": 12.872346878051758,
+    "MemoryBytes": 63184896,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:14:13.1647241Z",
+    "CpuPercent": 13.828753471374512,
+    "MemoryBytes": 63397888,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:14:28.1825036Z",
+    "CpuPercent": 37.464111328125,
+    "MemoryBytes": 64151552,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:14:43.2072593Z",
+    "CpuPercent": 19.013561248779297,
+    "MemoryBytes": 64200704,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:14:58.2254032Z",
+    "CpuPercent": 18.68512535095215,
+    "MemoryBytes": 65114112,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:15:13.2654503Z",
+    "CpuPercent": 26.06217384338379,
+    "MemoryBytes": 65200128,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:15:28.2876543Z",
+    "CpuPercent": 16.51884651184082,
+    "MemoryBytes": 65409024,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:15:43.318315Z",
+    "CpuPercent": 19.766881942749023,
+    "MemoryBytes": 64180224,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:15:58.3375987Z",
+    "CpuPercent": 15.954255104064941,
+    "MemoryBytes": 63598592,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:16:13.3590187Z",
+    "CpuPercent": 8.711080551147461,
+    "MemoryBytes": 63598592,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:16:28.3838649Z",
+    "CpuPercent": 19.793441772460938,
+    "MemoryBytes": 63602688,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:16:43.403117Z",
+    "CpuPercent": 9.946552276611328,
+    "MemoryBytes": 63602688,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:16:58.4234093Z",
+    "CpuPercent": 11.175716400146484,
+    "MemoryBytes": 63590400,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:17:13.4419529Z",
+    "CpuPercent": 9.142190933227539,
+    "MemoryBytes": 63578112,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:17:28.4678286Z",
+    "CpuPercent": 7.048429012298584,
+    "MemoryBytes": 63578112,
+    "SecurityEvent": "Critical: unauthorized service started"
+  },
+  {
+    "Timestamp": "2025-10-16T11:17:43.4806991Z",
+    "CpuPercent": 7.487218379974365,
+    "MemoryBytes": 63582208,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:17:58.4994058Z",
+    "CpuPercent": 30.223451614379883,
+    "MemoryBytes": 63639552,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:18:13.53269Z",
+    "CpuPercent": 22.490890502929688,
+    "MemoryBytes": 63643648,
+    "SecurityEvent": "AV alert (quarantined)"
+  },
+  {
+    "Timestamp": "2025-10-16T11:18:28.552436Z",
+    "CpuPercent": 13.64243221282959,
+    "MemoryBytes": 63660032,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:18:43.5778834Z",
+    "CpuPercent": 8.500773429870605,
+    "MemoryBytes": 63660032,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:18:58.5915741Z",
+    "CpuPercent": 14.06984806060791,
+    "MemoryBytes": 63660032,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:19:13.6078766Z",
+    "CpuPercent": 19.43622398376465,
+    "MemoryBytes": 63664128,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:19:28.6195577Z",
+    "CpuPercent": 11.22158432006836,
+    "MemoryBytes": 63660032,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:19:43.6331218Z",
+    "CpuPercent": 6.69265079498291,
+    "MemoryBytes": 63660032,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-16T11:19:58.6501045Z",
+    "CpuPercent": 11.499427795410156,
+    "MemoryBytes": 63660032,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:20:13.6735725Z",
+    "CpuPercent": 12.86376953125,
+    "MemoryBytes": 63655936,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:20:28.6886482Z",
+    "CpuPercent": 11.607199668884277,
+    "MemoryBytes": 63651840,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:20:43.7020782Z",
+    "CpuPercent": 6.573637962341309,
+    "MemoryBytes": 63647744,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:20:58.7216643Z",
+    "CpuPercent": 6.1828694343566895,
+    "MemoryBytes": 63643648,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:21:13.734105Z",
+    "CpuPercent": 9.086167335510254,
+    "MemoryBytes": 63647744,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:21:28.7577302Z",
+    "CpuPercent": 8.783984184265137,
+    "MemoryBytes": 63643648,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:21:43.7825511Z",
+    "CpuPercent": 7.126302719116211,
+    "MemoryBytes": 63643648,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:21:58.7985587Z",
+    "CpuPercent": 8.989355087280273,
+    "MemoryBytes": 63655936,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:22:13.825026Z",
+    "CpuPercent": 10.542369842529297,
+    "MemoryBytes": 63660032,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:22:28.8447047Z",
+    "CpuPercent": 15.170425415039062,
+    "MemoryBytes": 63668224,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:22:43.863128Z",
+    "CpuPercent": 13.458385467529297,
+    "MemoryBytes": 63672320,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:22:58.8892654Z",
+    "CpuPercent": 6.848866939544678,
+    "MemoryBytes": 63758336,
+    "SecurityEvent": "Critical: unauthorized service started"
+  },
+  {
+    "Timestamp": "2025-10-16T11:23:13.9070433Z",
+    "CpuPercent": 13.032987594604492,
+    "MemoryBytes": 63873024,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:23:28.9194568Z",
+    "CpuPercent": 18.173049926757812,
+    "MemoryBytes": 63877120,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:23:43.9451552Z",
+    "CpuPercent": 8.971334457397461,
+    "MemoryBytes": 63877120,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:23:58.9698052Z",
+    "CpuPercent": 9.048962593078613,
+    "MemoryBytes": 63877120,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:24:13.9921844Z",
+    "CpuPercent": 9.93221664428711,
+    "MemoryBytes": 63918080,
+    "SecurityEvent": "Critical: unauthorized service started"
+  },
+  {
+    "Timestamp": "2025-10-16T11:24:29.0272496Z",
+    "CpuPercent": 16.757404327392578,
+    "MemoryBytes": 63938560,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:24:44.0645305Z",
+    "CpuPercent": 10.041479110717773,
+    "MemoryBytes": 65966080,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:24:59.076843Z",
+    "CpuPercent": 18.446060180664062,
+    "MemoryBytes": 65388544,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:25:14.1030729Z",
+    "CpuPercent": 12.749113082885742,
+    "MemoryBytes": 65392640,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:25:29.1272015Z",
+    "CpuPercent": 8.864925384521484,
+    "MemoryBytes": 65392640,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:25:44.1425938Z",
+    "CpuPercent": 11.379903793334961,
+    "MemoryBytes": 65388544,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:25:59.1650405Z",
+    "CpuPercent": 23.513242721557617,
+    "MemoryBytes": 65368064,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:26:14.1902916Z",
+    "CpuPercent": 18.710769653320312,
+    "MemoryBytes": 65376256,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:26:29.2144947Z",
+    "CpuPercent": 7.519173622131348,
+    "MemoryBytes": 65376256,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:26:44.2424918Z",
+    "CpuPercent": 7.463572978973389,
+    "MemoryBytes": 65376256,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:26:59.256427Z",
+    "CpuPercent": 10.480761528015137,
+    "MemoryBytes": 65372160,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:27:14.2808393Z",
+    "CpuPercent": 11.2315034866333,
+    "MemoryBytes": 65368064,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:27:29.3039109Z",
+    "CpuPercent": 6.419776916503906,
+    "MemoryBytes": 65359872,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:27:44.3247332Z",
+    "CpuPercent": 6.68517541885376,
+    "MemoryBytes": 65355776,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:27:59.3512749Z",
+    "CpuPercent": 5.571073055267334,
+    "MemoryBytes": 65351680,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-16T11:28:14.3673563Z",
+    "CpuPercent": 7.1118855476379395,
+    "MemoryBytes": 65351680,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:28:29.394315Z",
+    "CpuPercent": 8.334403991699219,
+    "MemoryBytes": 65343488,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:28:44.4180904Z",
+    "CpuPercent": 9.747179985046387,
+    "MemoryBytes": 65347584,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:28:59.444361Z",
+    "CpuPercent": 9.350287437438965,
+    "MemoryBytes": 65343488,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:29:14.4620349Z",
+    "CpuPercent": 18.53410530090332,
+    "MemoryBytes": 65347584,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:29:29.4873243Z",
+    "CpuPercent": 14.792425155639648,
+    "MemoryBytes": 65347584,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:29:44.5142032Z",
+    "CpuPercent": 20.623506546020508,
+    "MemoryBytes": 65351680,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:29:59.5373263Z",
+    "CpuPercent": 18.10079002380371,
+    "MemoryBytes": 65359872,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:30:14.5570875Z",
+    "CpuPercent": 13.56552791595459,
+    "MemoryBytes": 65359872,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:30:29.5793998Z",
+    "CpuPercent": 18.39606475830078,
+    "MemoryBytes": 65359872,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:30:44.5983191Z",
+    "CpuPercent": 16.628530502319336,
+    "MemoryBytes": 65372160,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:30:59.6157457Z",
+    "CpuPercent": 19.11011505126953,
+    "MemoryBytes": 56303616,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:31:14.627985Z",
+    "CpuPercent": 13.060206413269043,
+    "MemoryBytes": 56299520,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:31:29.6431642Z",
+    "CpuPercent": 17.32337188720703,
+    "MemoryBytes": 56299520,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:31:44.6562099Z",
+    "CpuPercent": 17.254074096679688,
+    "MemoryBytes": 56295424,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:31:59.6794337Z",
+    "CpuPercent": 14.498818397521973,
+    "MemoryBytes": 56299520,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:32:14.7001271Z",
+    "CpuPercent": 13.648406982421875,
+    "MemoryBytes": 56299520,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:32:29.7170709Z",
+    "CpuPercent": 16.786699295043945,
+    "MemoryBytes": 56299520,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:32:44.7275584Z",
+    "CpuPercent": 16.31536293029785,
+    "MemoryBytes": 56303616,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:32:59.7446969Z",
+    "CpuPercent": 22.028810501098633,
+    "MemoryBytes": 56299520,
+    "SecurityEvent": "Critical: unauthorized service started"
+  },
+  {
+    "Timestamp": "2025-10-16T11:33:14.7696711Z",
+    "CpuPercent": 15.147821426391602,
+    "MemoryBytes": 56303616,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:33:29.7877975Z",
+    "CpuPercent": 16.54505729675293,
+    "MemoryBytes": 56303616,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:33:44.8139714Z",
+    "CpuPercent": 14.499205589294434,
+    "MemoryBytes": 56918016,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:33:59.8400618Z",
+    "CpuPercent": 16.954587936401367,
+    "MemoryBytes": 56082432,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:34:14.8671398Z",
+    "CpuPercent": 16.0885066986084,
+    "MemoryBytes": 56082432,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:34:29.8880077Z",
+    "CpuPercent": 17.517498016357422,
+    "MemoryBytes": 56078336,
+    "SecurityEvent": "AV alert (quarantined)"
+  },
+  {
+    "Timestamp": "2025-10-16T11:34:44.9067638Z",
+    "CpuPercent": 15.606943130493164,
+    "MemoryBytes": 56082432,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:34:59.9199518Z",
+    "CpuPercent": 14.27425479888916,
+    "MemoryBytes": 56078336,
+    "SecurityEvent": "Critical: unauthorized service started"
+  },
+  {
+    "Timestamp": "2025-10-16T11:35:14.9445044Z",
+    "CpuPercent": 16.98492431640625,
+    "MemoryBytes": 56078336,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:35:29.9715334Z",
+    "CpuPercent": 17.439889907836914,
+    "MemoryBytes": 56078336,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:35:44.9980845Z",
+    "CpuPercent": 17.633886337280273,
+    "MemoryBytes": 56078336,
+    "SecurityEvent": "Critical: unauthorized service started"
+  },
+  {
+    "Timestamp": "2025-10-16T11:36:00.0249836Z",
+    "CpuPercent": 23.378875732421875,
+    "MemoryBytes": 54304768,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:36:15.0440191Z",
+    "CpuPercent": 16.52565574645996,
+    "MemoryBytes": 54288384,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:36:30.0604877Z",
+    "CpuPercent": 17.843984603881836,
+    "MemoryBytes": 54292480,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:36:45.0776566Z",
+    "CpuPercent": 10.265427589416504,
+    "MemoryBytes": 54292480,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:37:00.0961033Z",
+    "CpuPercent": 11.451167106628418,
+    "MemoryBytes": 54292480,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:37:15.1157033Z",
+    "CpuPercent": 10.811136245727539,
+    "MemoryBytes": 54288384,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:37:30.1366681Z",
+    "CpuPercent": 18.389753341674805,
+    "MemoryBytes": 54292480,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:37:45.1548457Z",
+    "CpuPercent": 12.014032363891602,
+    "MemoryBytes": 54296576,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:38:00.1764567Z",
+    "CpuPercent": 10.76026439666748,
+    "MemoryBytes": 54296576,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-16T11:38:15.1957933Z",
+    "CpuPercent": 12.58515453338623,
+    "MemoryBytes": 54300672,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:38:30.2234151Z",
+    "CpuPercent": 13.702411651611328,
+    "MemoryBytes": 54296576,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:38:45.2418484Z",
+    "CpuPercent": 18.199037551879883,
+    "MemoryBytes": 54304768,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:39:00.2661008Z",
+    "CpuPercent": 9.049023628234863,
+    "MemoryBytes": 54321152,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:39:15.3166416Z",
+    "CpuPercent": 14.699188232421875,
+    "MemoryBytes": 54325248,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-16T11:39:30.3414013Z",
+    "CpuPercent": 11.480879783630371,
+    "MemoryBytes": 54325248,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:39:45.3571678Z",
+    "CpuPercent": 15.148029327392578,
+    "MemoryBytes": 54321152,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:40:00.3811826Z",
+    "CpuPercent": 14.408205032348633,
+    "MemoryBytes": 54321152,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:40:15.3949566Z",
+    "CpuPercent": 10.74486255645752,
+    "MemoryBytes": 54321152,
+    "SecurityEvent": "AV alert (quarantined)"
+  },
+  {
+    "Timestamp": "2025-10-16T11:40:30.4203905Z",
+    "CpuPercent": 10.373922348022461,
+    "MemoryBytes": 54321152,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-16T11:40:45.4340382Z",
+    "CpuPercent": 10.042267799377441,
+    "MemoryBytes": 54312960,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-16T11:41:00.4472075Z",
+    "CpuPercent": 19.179723739624023,
+    "MemoryBytes": 53796864,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:41:15.462198Z",
+    "CpuPercent": 12.814704895019531,
+    "MemoryBytes": 53796864,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:41:30.4817043Z",
+    "CpuPercent": 10.878155708312988,
+    "MemoryBytes": 54734848,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:41:45.508414Z",
+    "CpuPercent": 9.418115615844727,
+    "MemoryBytes": 54202368,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:42:00.5310532Z",
+    "CpuPercent": 13.866852760314941,
+    "MemoryBytes": 54198272,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-16T11:42:15.5457803Z",
+    "CpuPercent": 16.461477279663086,
+    "MemoryBytes": 54194176,
+    "SecurityEvent": "Suspicious login event"
+  },
+  {
+    "Timestamp": "2025-10-16T11:42:30.567252Z",
+    "CpuPercent": 13.036335945129395,
+    "MemoryBytes": 54206464,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:42:45.586527Z",
+    "CpuPercent": 10.941076278686523,
+    "MemoryBytes": 54198272,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:43:00.6091384Z",
+    "CpuPercent": 7.625813961029053,
+    "MemoryBytes": 54140928,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:43:15.619081Z",
+    "CpuPercent": 13.306407928466797,
+    "MemoryBytes": 54136832,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:43:30.6312035Z",
+    "CpuPercent": 10.567294120788574,
+    "MemoryBytes": 54140928,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:43:45.6563936Z",
+    "CpuPercent": 9.988306045532227,
+    "MemoryBytes": 54145024,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:44:00.6698684Z",
+    "CpuPercent": 10.880350112915039,
+    "MemoryBytes": 54132736,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:44:15.6845625Z",
+    "CpuPercent": 20.839635848999023,
+    "MemoryBytes": 54140928,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:44:30.7096275Z",
+    "CpuPercent": 12.854191780090332,
+    "MemoryBytes": 54136832,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:44:45.7298035Z",
+    "CpuPercent": 7.981221675872803,
+    "MemoryBytes": 54136832,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:45:00.7466635Z",
+    "CpuPercent": 11.279326438903809,
+    "MemoryBytes": 54145024,
+    "SecurityEvent": "Critical: unauthorized service started"
+  },
+  {
+    "Timestamp": "2025-10-16T11:45:15.7610505Z",
+    "CpuPercent": 13.565299987792969,
+    "MemoryBytes": 54145024,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:45:30.7852128Z",
+    "CpuPercent": 13.212696075439453,
+    "MemoryBytes": 54153216,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:45:45.8126918Z",
+    "CpuPercent": 12.217580795288086,
+    "MemoryBytes": 54157312,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:46:00.8385665Z",
+    "CpuPercent": 15.477815628051758,
+    "MemoryBytes": 53911552,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:46:15.8514175Z",
+    "CpuPercent": 5.654152870178223,
+    "MemoryBytes": 53907456,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:46:30.8729026Z",
+    "CpuPercent": 9.133359909057617,
+    "MemoryBytes": 53907456,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:46:45.8907163Z",
+    "CpuPercent": 5.892978668212891,
+    "MemoryBytes": 53903360,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:47:00.9164216Z",
+    "CpuPercent": 7.308040618896484,
+    "MemoryBytes": 53903360,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:47:15.9319943Z",
+    "CpuPercent": 6.808731555938721,
+    "MemoryBytes": 53899264,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:47:30.9478824Z",
+    "CpuPercent": 8.787100791931152,
+    "MemoryBytes": 53899264,
+    "SecurityEvent": "AV alert (quarantined)"
+  },
+  {
+    "Timestamp": "2025-10-16T11:47:45.9691608Z",
+    "CpuPercent": 6.896536350250244,
+    "MemoryBytes": 53899264,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:48:00.9829671Z",
+    "CpuPercent": 6.376619815826416,
+    "MemoryBytes": 53895168,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:48:16.0051012Z",
+    "CpuPercent": 12.354999542236328,
+    "MemoryBytes": 53985280,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:48:31.0246564Z",
+    "CpuPercent": 7.887056827545166,
+    "MemoryBytes": 54149120,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:48:46.0494484Z",
+    "CpuPercent": 18.208322525024414,
+    "MemoryBytes": 54849536,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:49:01.0681942Z",
+    "CpuPercent": 10.24262523651123,
+    "MemoryBytes": 54407168,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:49:16.086578Z",
+    "CpuPercent": 15.026351928710938,
+    "MemoryBytes": 54407168,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:49:31.1032953Z",
+    "CpuPercent": 15.003311157226562,
+    "MemoryBytes": 54403072,
+    "SecurityEvent": "AV alert (quarantined)"
+  },
+  {
+    "Timestamp": "2025-10-16T11:49:46.1298725Z",
+    "CpuPercent": 15.377595901489258,
+    "MemoryBytes": 54403072,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:50:01.1526657Z",
+    "CpuPercent": 10.292815208435059,
+    "MemoryBytes": 54403072,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:50:16.1786008Z",
+    "CpuPercent": 13.073565483093262,
+    "MemoryBytes": 54403072,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:50:31.2030303Z",
+    "CpuPercent": 15.183560371398926,
+    "MemoryBytes": 54415360,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:50:46.2287953Z",
+    "CpuPercent": 13.026460647583008,
+    "MemoryBytes": 54423552,
+    "SecurityEvent": "No issues"
+  },
+  {
+    "Timestamp": "2025-10-16T11:51:01.2435133Z",
+    "CpuPercent": 16.886449813842773,
+    "MemoryBytes": 53153792,
+    "SecurityEvent": "No issues"
+  }
+]

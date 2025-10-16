@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PC Protection - System Health Monitor</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>💻 PC Protection - System Health Monitor</h1>
+        <button id="theme-toggle">🌙 Toggle Dark Mode</button>
+    </header>
+
+    <main>
+        <section class="status">
+            <h2>Current System Health:</h2>
+            <div id="current-health" class="badge healthy">Loading...</div>
+            <p id="last-updated" class="timestamp"></p>
+        </section>
+
+        <section class="chart">
+            <h2>CPU & Memory Trends (Last 10 Records)</h2>
+            <div class="chart-container">
+                <canvas id="metricsChart"></canvas>
+            </div>
+        </section>
+
+        <section class="table">
+            <h2>Recent Metrics (Last 10 Records)</h2>
+            <table id="metrics-table">
+                <thead>
+                    <tr>
+                        <th>Timestamp</th>
+                        <th>CPU %</th>
+                        <th>Memory (MB)</th>
+                        <th>Event</th>
+                        <th>Health Status</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
