@@ -13,32 +13,28 @@ The solution demonstrates:
 
 ## 🧩 Architecture Overview
 
-┌──────────────────────────────┐
-│ PC Protection │
-│ (C# Background Service) │
-│ • Collects CPU, RAM, │
-│ and security events │
-│ • Saves data every 15s │
-│ • Persists to metrics.db │
-└──────────────┬───────────────┘
-│
-▼
-┌──────────────────────────────┐
-│ Analytics Web Server │
-│ (Python Flask API + UI) │
-│ • Serves /api/analytics │
-│ • Returns last 10 metrics │
-│ • Hosts the dashboard page │
-└──────────────┬───────────────┘
-│
-▼
-┌──────────────────────────────┐
-│ Frontend Dashboard │
-│ (HTML + CSS + Chart.js) │
-│ • Displays CPU & RAM chart │
-│ • Auto-refresh every 15s │
-│ • Supports dark mode toggle │
-└──────────────────────────────┘
+
+PC Protection 
+(C# Background Service) 
+• Collects CPU, RAM, 
+and security events 
+• Saves data every 15s 
+• Persists to metrics.db 
+
+
+Analytics Web Server 
+(Python Flask API + UI) 
+• Serves /api/analytics 
+• Returns last 10 metrics 
+• Hosts the dashboard page 
+
+
+Frontend Dashboard 
+(HTML + CSS + Chart.js) 
+• Displays CPU & RAM chart 
+• Auto-refresh every 15s 
+• Supports dark mode toggle 
+
 
 ---
 
