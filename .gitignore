@@ -1,0 +1,30 @@
+# Ignore build and release folders
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Ignore Visual Studio and Rider settings
+.vs/
+.idea/
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+
+# Ignore local database and JSON metrics
+metrics.db
+metrics.json
+
+# Ignore frontend build artifacts
+node_modules/
+dist/
+build/
+
+# Ignore temporary files
+*.sourcelink.json
+Thumbs.db
+.DS_Store
