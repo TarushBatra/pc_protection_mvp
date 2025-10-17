@@ -111,13 +111,7 @@ You’ll see:
 
 🌐 Deployment
 Netlify (Static Hosting)
-
-1.Build dashboard files under /analytics_server/dashboard.
-2.Deploy folder directly to Netlify.
-3.Set Flask API (if needed) using Netlify function proxy or Railway.app backend.
-
-Example:
-https://pc-protection-dashboard.netlify.app/
+https://pcprotectionmvp.netlify.app/
 
 🧠 Key Features Recap
 Feature	Description
